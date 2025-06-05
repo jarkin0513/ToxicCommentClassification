@@ -43,5 +43,5 @@ Source: Jigsaw Toxic Comment Classification Challenge
 Best Macro F1 score: 0.9226
 Threat category F1: 0.822 despite < 1k samples
 
-![Screenshot](https://github.com/EvinB/ToxicCommentClassification/blob/main/data.png)
-![Screenshot](https://github.com/EvinB/ToxicCommentClassification/blob/main/matrix.png)
+![](https://github.com/jarkin0513/ToxicCommentClassification/blob/main/images/data.png)
+![](https://github.com/jarkin0513/ToxicCommentClassification/blob/main/images/matrix.png)
