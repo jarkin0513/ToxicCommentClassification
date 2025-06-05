@@ -4,6 +4,8 @@ A multi-label NLP classification project focused on identifying toxic online con
 ## Problem Overview 
 This project addresses the challenge of detecting harmful or toxic content in online comments, which may include insults, threats, profanity, and identity-based hate. The task is treated as multi-label classification, meaning a single comment can exhibit more than one type of toxicity.
 
+#### Made in collaboration with [Evin Bayer](https://github.com/EvinB)
+
 ## Dataset 
 Source: Jigsaw Toxic Comment Classification Challenge
 - 160,000+ labeled comments (from Wikipedia)
